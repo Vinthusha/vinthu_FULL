@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38a37aeb-23fa-4c11-90ed-aa7866faa881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repots/TestExecutionReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Full_Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/MixDesignTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/ResultandReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Sample_Full.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Trial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/FinishProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/RawMaterial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/ResultandReport_F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/Master_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/FinishProductDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/FinishProductSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/IncommingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/ProcessSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config_Data/Confic_Full.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config_Data/Config_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/configurationSteps/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/Trial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/nonplant_user/NonPlantUser_Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/nonplant_user/NonPlantUser_Privilage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/PlantRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/SuperAdminPrivillage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/TokiyoLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712169718.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712247024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712438656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712500587.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712992410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713136222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713320611.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713452711.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713543626.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713577368.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713903542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599714264517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599715870220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599716000580.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816014978.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816040718.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816064517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816260106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816587829.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817329226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817646986.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817672200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817937146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817997654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818023921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818050338.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818076517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818137376.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818339355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818556598.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599819228920.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822398499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822599603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822628672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822951304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823041714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823077807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823113723.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823149055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823219778.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823742295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882378136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882410158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882446984.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882526367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882550174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882571341.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882797002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883133563.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883159672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883184214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883210926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883234782.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883305199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883333235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883361520.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883390567.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883423316.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883454038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883484905.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883515237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883761810.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883804190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883877193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883948955.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883986560.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884204892.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884234283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884278884.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884322816.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884367365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884408779.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884482312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884511897.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884541419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884618653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884682135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884869110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884943634.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885169975.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885263242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885571732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885731647.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885804162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885876286.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599892177719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600053723145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600053746002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600054581665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600054986901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055004133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055302865.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055330084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600056365715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600056931841.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600057157123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600057614625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600058716430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600058745083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600061393132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062602130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062629285.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062656197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/ConfigurationSmoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Full_Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Privillage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/ResultAndReport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Samples.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/TestTial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/mixdesign.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MethodBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/MethodBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/Master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/MasterRunTokiyo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/DeliveryCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/DeliveryCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Designation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Designation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/EquipmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/EquipmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/PlantEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/PlantEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialCtaegory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialCtaegory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialSubCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialSubCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/plant/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/plant/PlantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/SupplierCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/SupplierCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesignTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/resultandReport/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/Sample_Full.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Configration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/ManageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/ManageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/Manage_test_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/ParameterMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/ParameterMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/QualityParameterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/testNV/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/testNV/AddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/testNV/test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentAllInOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentAllInOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentCalibration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/FinishProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/FinishProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/ChemicalAdmixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/ChemicalAdmixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/MinaralAdmixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/MinaralAdmixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/CoarseAggregates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/CoarseAggregates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/FineAggregates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/FineAggregates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Emil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Emil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Privilage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Privilage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/User/User_Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/User/User_Privilage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Privilage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ExcelSheet/TokyooExcel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ExcelSheet/TokyooExcel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testplans/Smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ui-automation-training.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hAOGhJ3eCrnOkHUuDCasyBiI2P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/test/qa/cards" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.qa.Full_Code" />
+      <recent name="com.test.qa.cards.testConfiguration.ConfigrationNV.configurationSteps" />
+      <recent name="com.test.qa.cards.master" />
+      <recent name="com.test.qa.cards.testConfiguration.ConfigrationNV" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nixsala Nadesan\Desktop\FIRST_PROJECT-Tok\Tokyoo_Smoke\src\test\java\com\test\qa\cards\testConfiguration\ConfigrationNV" />
+      <recent name="D:\FIRST_PROJECT\Tokyoo_Smoke\src\test\java\com\test\qa\settings" />
+      <recent name="D:\FIRST_PROJECT\Tokyoo_Smoke\src\test\java\com\test\qa\settings\plant_Admin" />
+      <recent name="D:\FIRST_PROJECT\Tokyoo_Smoke\src\test\java\com\test\qa\cards" />
+      <recent name="D:\FIRST_PROJECT\Tokyoo_Smoke\src\test\java\com\test\qa\cards\testTrials\Rawmaterial\aggregates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Configuration">
+    <configuration name="Confic_Full" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.Confic_Full" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Confic_Full.Test_Parameters_View" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.Confic_Full" />
+      <option name="METHOD_NAME" value="Test_Parameters_View" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Confic_Full.managetest_ConfigurationEdit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.Confic_Full" />
+      <option name="METHOD_NAME" value="managetest_ConfigurationEdit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config.TestConfigure" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.testConfiguration.configurationSteps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.testConfiguration.configurationSteps" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.testConfiguration.configurationSteps.Config" />
+      <option name="METHOD_NAME" value="TestConfigure" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Configuration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.Full_Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.Full_Code" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.Full_Code.Configuration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Configuration" />
+        <item itemvalue="TestNG.Confic_Full" />
+        <item itemvalue="TestNG.Confic_Full.Test_Parameters_View" />
+        <item itemvalue="TestNG.Confic_Full.managetest_ConfigurationEdit" />
+        <item itemvalue="TestNG.Config.TestConfigure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38a37aeb-23fa-4c11-90ed-aa7866faa881" name="Default Changelist" comment="" />
+      <created>1599450335277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599450335277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601362866456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1601362866456" />
+    <state x="400" y="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601440439315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1601440439315" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1602218072595">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601458982091" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602218072595" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602243057258">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601464034260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602243057258" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1601465905508" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602243057258">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601464034260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602243057258" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1601465905508" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602243057258">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601464034260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602243057258" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1601465905508" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602243057258">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601464034260" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602243057258" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1601465905508" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1599737644978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599737644978" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1599737644974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599737644974" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1599737644974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599737644974" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1599737644978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599737644978" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1599794571806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1599794571806" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600945456731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600945456731" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1599709424208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599709424208" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/MixDesignTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config_Data/Config_Data.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/newconfigfullcode/Configuration.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/configurationSteps/Config.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/ManageTest.java</url>
+          <line>17</line>
+          <properties class="com.test.qa.cards.testConfiguration.manageConfiguretestNV.ManageTest" method="Test_Parameters_View">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java</url>
+          <line>82</line>
+          <properties class="com.test.qa.cards.mixDesign.MixDesign" method="MixDesignDeleteSmokeTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config_Data/Confic_Full.java</url>
+          <line>160</line>
+          <properties class="com.test.qa.cards.testConfiguration.ConfigrationNV.Config_Data.Confic_Full" method="Test_Parameters_View">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
